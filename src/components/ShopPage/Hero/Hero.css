@@ -1,0 +1,11 @@
+.h{
+    background-image: url('../Assets/Img001.jpg');
+    height: 550px;
+}
+.h h1{
+    padding-top: 150px;
+    margin-left: 650px;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}

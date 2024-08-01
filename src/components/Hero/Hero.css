@@ -1,0 +1,21 @@
+.caption-1 h3{
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+}
+.caption-1 p{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 200px;
+    color: white;
+}
+.caption-2 h3{
+    font-size:100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.caption-2 p{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 200px;
+}

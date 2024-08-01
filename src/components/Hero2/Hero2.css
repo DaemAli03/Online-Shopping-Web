@@ -1,0 +1,42 @@
+.hero2{
+    background-image: url('../Assets/bg_3.jpg');
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 1583px;
+    margin-top: 70px;
+}
+.text{
+    padding-left: 850px;
+    padding-top: 135px;
+}
+.text h3{
+    font-size: 32px;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text h1{
+    margin-top: 20px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text p{
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: grey;
+}
+.text p1{
+    margin-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: grey;
+}
+.text p1 span{
+    color: darkgreen;
+    font-weight: bold;
+}
+.text h4{
+    font-size: 30px;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}

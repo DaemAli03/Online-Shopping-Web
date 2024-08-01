@@ -1,0 +1,48 @@
+.message{
+    margin-top: 40px;
+    margin-left: 550px;
+}
+.message h1{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+}
+.i1{
+    width: 400px;
+    height: 65px;
+    margin-left: 35px;
+}
+.i2{
+    width: 400px;
+    height: 65px;
+    margin-top: 12px;
+    margin-left: 35px;
+}
+.i3{
+    width: 400px;
+    height: 65px;
+    margin-top: 12px;
+    margin-left: 35px;
+}
+.i4{
+    width: 400px;
+    height: 95px;
+    margin-top: 12px;
+    margin-left: 35px;
+}
+.message button{
+    margin-top: 12px;
+    margin-left: 100px;
+    height: 50px;
+    width: 200px;
+    border-radius: 12px;
+    color: black;
+    background-color: lightgreen;
+    opacity: .9;
+    font-size: 20px;
+    font-weight: bold;
+}
+.message button:hover{
+    background-color: green;
+    opacity: .6;
+}

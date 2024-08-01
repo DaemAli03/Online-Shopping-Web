@@ -1,0 +1,12 @@
+.t{
+    background-image: url('../Assets/Img001.jpg');
+    height: 450px;
+    filter: brightness(0.8);
+}
+.t h1{
+    padding-top: 150px;
+    margin-left: 600px;
+    font-size: 80px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
